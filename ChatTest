@@ -1,0 +1,2 @@
+git remote add origin https://github.com/MikeyD/Chess-Cursor.git
+git push -u origin master
